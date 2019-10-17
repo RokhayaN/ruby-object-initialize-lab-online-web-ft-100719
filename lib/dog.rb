@@ -5,5 +5,5 @@ class Person
 end 
 
 class Dog
-  def initialize (name)
+  def initialize (name , breed ("mutt")
     @name = Dog.name
