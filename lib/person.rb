@@ -3,3 +3,5 @@ class Dog
     @name = Dog.name
   end 
 end
+Dog.name = fido
+  Dog.breed
